@@ -110,7 +110,7 @@ The project includes three Tableau dashboards published as part of one Tableau P
 
 This dashboard provides an overview of project volume, overdue phases, projects with overdue phases, average delay, and overdue phases by project phase.
 
-![Project Performance Overview](dashboard_1_overview.png)
+![Project Performance Overview](Screenshot%202026-10-01%20040241.png)
 
 [View Project Performance Overview on Tableau Public](https://public.tableau.com/views/ProjectPerformanceOverview/Dashboard1?:language=en-US)
 
@@ -118,7 +118,7 @@ This dashboard provides an overview of project volume, overdue phases, projects 
 
 This dashboard focuses on projects with repeated overdue phases and the average severity of their delays.
 
-![Delays Analysis](dashboard_2_delays.png)
+![Delays Analysis](Screenshot%202026-10-01%20040302.png)
 
 [View Delays Analysis on Tableau Public](https://public.tableau.com/views/ProjectPerformanceOverview/Dashboard2?:language=en-US)
 
@@ -126,7 +126,7 @@ This dashboard focuses on projects with repeated overdue phases and the average 
 
 This dashboard shows the relationship between budget variance percentage and profit using a scatter plot and a linear trend line.
 
-![Financial Performance](dashboard_3_financial.png)
+![Financial Performance](Screenshot%202026-10-01%20040316.png)
 
 [View Financial Performance on Tableau Public](https://public.tableau.com/views/ProjectPerformanceOverview/FinancialPerformance?:language=en-US)
 
