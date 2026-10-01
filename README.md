@@ -137,17 +137,6 @@ This dashboard shows the relationship between budget variance percentage and pro
 * Tableau Public — Data visualization and dashboards
 * GitHub — Project documentation and portfolio
 
-## Project Structure
-
-```text
-Project_Performance_Analysis
-│
-├── projects.xlsx
-├── project_phases.xlsx
-├── Analysis
-├── Tableau
-└── Documentation
-```
 
 ## Conclusion
 
