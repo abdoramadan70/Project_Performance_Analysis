@@ -181,7 +181,7 @@ This dashboard shows the relationship between budget variance percentage and pro
 
 This dashboard provides a high-level view of project risk levels and overdue phases.
 
-![Project Risk Snapshot](Screenshot%202026-10-02%20003609.png)
+![Project Risk Snapshot](Screenshot%202026-10-02%004740.png)
 
 [View Project Risk Snapshot on Tableau Public](https://public.tableau.com/views/RGE/ProjectRiskSnapshot?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 It includes:
